@@ -4,12 +4,12 @@
 // Print the name variable in the h1 element
 
 function QuickPractice() {
-//   const name = '';
+  const name = 'Zachary Trani';
 
   return (
     <div>
       My name is:
-      {/* <h1></h1> */}
+      <h1>print(name)</h1>
     </div>
   );
 }
